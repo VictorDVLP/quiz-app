@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizHarryPotter</string>
+    <string name="instruction">Instructions</string>
+    <string name="info"> This questionnaire is governed by the following rules: \n
+        \n
+        1 - The game consists of 10 random questions with 3 answer options each. It is recommended to have a larger question bank to avoid always getting the same questions in each game and keep the game fresh and exciting. \n
+        \n
+        2 - Each question has a time limit of 30 seconds to respond. The countdown timer will appear on the screen, and if it reaches 0, it will be considered as an incorrect answer and automatically move on to the next question. \n
+        \n
+        3 - Upon selecting an answer or when the time runs out, the game will show if the answer is correct or incorrect, and provide feedback on what the correct answer was. After a brief moment, the game will automatically navigate to the next screen. \n
+        \n
+        4 - The scoring system is as follows: \n
+        · If the timer reaches 0 or the answer is incorrect, 0 points will be assigned. \n
+        · If the timer is greater than 0 and the answer is correct, points equivalent to the remaining seconds on the timer will be assigned. For example, if there were 9 seconds left and the question is answered correctly, 9 points will be assigned.
+    </string>
+</resources>
